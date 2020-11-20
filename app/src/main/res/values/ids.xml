@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtNumber1" type="id"/>
+    <item name="txtNumber2" type="id"/>
+    <item name="button" type="id"/>
+    <item name="button2" type="id"/>
+    <item name="button3" type="id"/>
+    <item name="button4" type="id"/>
+    <item name="txtResult" type="id"/>
+</resources>
